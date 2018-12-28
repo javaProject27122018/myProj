@@ -30,11 +30,6 @@ public class StudentCommand {
 	}
 
 
-	@Override
-	public String toString() {
-		return "StudentCommand [sno=" + sno + ", sname=" + sname + ", sadd=" + sadd + "]";
-	}
-	
 	
 	
 
